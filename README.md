@@ -1,7 +1,9 @@
-# Olá, eu sou Thainá Fonseca! 🚀
+# Olá, eu sou a Thainá 🚀
 
 💼 Developer C#, .NET, SQL, SAP Business ONE, SALESFORCE
+
 🎯  Atualmente estou trabalhando na IBM, estudando JAVA 
+
 📍 São Paulo, SP 
 
 ---
