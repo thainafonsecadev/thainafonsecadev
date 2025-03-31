@@ -1,4 +1,4 @@
-# Olá, eu sou a Thainá 🚀
+Hello! Welcome to Thainá GitHub 
 
 💼 Developer C#, .NET, SQL, SAP Business ONE, SALESFORCE
 
